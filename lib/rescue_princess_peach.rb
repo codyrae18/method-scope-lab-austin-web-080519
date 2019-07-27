@@ -1,5 +1,4 @@
 def rescue_princess_peach(status)
-  puts status
   puts status "Hooray! Mario has rescued Princess Peach."
 end
 
